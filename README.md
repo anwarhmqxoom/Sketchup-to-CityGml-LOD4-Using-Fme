@@ -1,4 +1,4 @@
-# Sketchup-to-CityGml-LOD4-Using-Fme-
+# Sketchup to CityGml LOD4 Using Fme
 the highest level of accuracy and resolution for the indoor building, is to a certain extent equivalent to the LoD4 defined in CityGML 2.0. This level has the most comprehensive and detailed structures of interior installations and furniture, whose geometry may be given using an explicit geometry bounded by a _BoundarySurface or an implicitGeometry object. This level is beneficial to the virtual accessibility to building models, such as for visitor information in a museum, Moreover, for realistic effect, even texture would be attached; the indoor analyses that require more finely detailed geometries and semantics are allowable
 
 
